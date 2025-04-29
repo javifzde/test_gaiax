@@ -13,7 +13,7 @@
         "n": "ymFx0ry32PlIowopLydslLu1M0duePUpSbaVlTB9UWq7n7HMEVhdFTct57mbIn2fL14Ks3HmXEuRP1uAe5vIfrPoDHU7c4BEx-udWzsfgitNSU6d9An8Xkj-iBwoRxYGk0r_lTIh8wQb_UUdDPrCCSv9PAHB7BE4sEWdqO7Kjq-TBsZbC1pr1_iZ17czSAvjCTxig1NcU61nzmUSmh8sT0ZS-VRLcrRo9E6EwcGI4XM2IbBdgSHFCDHREcZ1mX5-kPI8pEIXgkUIkmi2M9bH8Dcoo5kc9oaMpyvHRr__Bs4sCuMBuEykeqwfWox2CpZPLn02RRP5bs77EHP7w3L5Qw",
         "e": "AQAB",
         "alg": "RS256",
-        "x5u": "https://raw.githubusercontent.com/javifzde/test-gaiax/main/cert-1.json.pem"
+        "x5u": "https://raw.githubusercontent.com/javifzde/test-gaiax/main/cert-1.json"
       }
     }
   ],
